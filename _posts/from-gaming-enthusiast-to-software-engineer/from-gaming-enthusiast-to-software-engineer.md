@@ -15,7 +15,7 @@ When you are a child, it’s the only time you have a massive amount of free tim
 
 I grew up with a father who worked on technology. He gifted me with my first Gaming Console by age two: the PlayStation 2. Gaming is a gateway to infinite worlds, and I was utterly amazed by this. With a joystick on your hands and your mind concentrated, you could teleport yourself to gameplay, where fantastic adventures await you to discover. You are given a set of rules, and you have to master your skills to pass levels and quests, kill monsters, beat your friends, and whatever the game is about: GRINDING.
 
-Later, my parents gave me my first computer when the Internet at houses became more common in my country, Argentina. With one of my best friends who used to play all kinds of games, we discovered an online multiplayer game, MMORPG: RuneScape, and other online games, such as Club Penguin, which were trendy back then. The Internet boomed in the latest years after the market recovered from the dot com bubble, and the transition from offline to online also reached this industry.
+Later, my parents gave me my first computer when the Internet at houses became more common in my country, Argentina. With one of my best friends who used to play all kinds of games, we discovered an online multiplayer game, MMORPG: RuneScape, and other online games, such as Club Penguin, which were trendy back then. The Internet had boomed in the latest years after the market recovered from the dot com bubble, and the transition from offline to online also reached this industry.
 
 If I was already into gaming, I was utterly amazed after I found online games. But I wanted more; I wanted to UNDERSTAND it. How did the engineers create these games? How does the Internet work? After that, I knew I wouldn’t remain unanswered, although the questions I had back then were perhaps too advanced for just a kid.
 
@@ -34,7 +34,7 @@ Some projects I was into were creating a Candy Crash-like game, designing and bu
 
 My first job was as a Software Developer at a Software Factory in 2020. It was a good moment for the industry. After the pandemic, every company was going remote, which opened many opportunities for engineers worldwide to access great jobs. Software Factories can be an excellent option for someone starting their career as a developer since you’ll be able to work in different industries and rotate on projects.
 
-It’s not only essential to be an excellent technical engineer, but someone who understands the business and the industry where you work is even more valuable than someone who can only follow instructions. So it is crucial to choose the sectors that you like the most.
+It’s not only essential to be an excellent technical engineer, but to understand the business and the industry where you work. The impact you can create in a company is directly related with how you understand the business. So it is crucial to choose the sectors that you like the most.
 
 After four months of joining the company and coding for different projects, the company assigned me to work with a new client, an emerging startup in the fintech-gaming space. Again, I could work with world-class people in the industry, and it was an excellent accelerator for my career as I learned quickly.
 
